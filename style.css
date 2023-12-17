@@ -166,6 +166,7 @@ body {
     
     .container {
         max-width: 350px;
+        padding: 1.2em;
     }
 
     .content {
